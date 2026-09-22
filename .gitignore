@@ -1,0 +1,61 @@
+# ---- Secretos y entorno
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+
+# ---- Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+**/doc/api/
+app.*.symbols
+app.*.map.json
+
+# ---- Android
+android/app/build/
+android/build/
+android/.gradle/
+android/local.properties
+android/app/debug
+android/app/profile
+android/app/release
+android/app/.cxx/
+*.apk
+*.aab
+*.jks
+
+# ---- iOS / macOS (por si se agrega soporte más adelante)
+ios/Flutter/.last_build_id
+ios/Pods/
+ios/.symlinks/
+**/Flutter/ephemeral/
+**/Pods/
+
+# ---- Java / Maven (backend)
+90-BackEnd/target/
+90-BackEnd/.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# ---- IDE / SO
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+
+# ---- Herramientas de IA (nunca versionadas en este repo)

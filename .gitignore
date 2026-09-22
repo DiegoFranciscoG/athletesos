@@ -57,5 +57,3 @@ ios/.symlinks/
 Thumbs.db
 *.log
 *.swp
-
-# ---- Herramientas de IA (nunca versionadas en este repo)

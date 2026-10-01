@@ -128,4 +128,4 @@ No hay despliegue público: es una app personal que corre en un teléfono Androi
 - Ver [docs/investigacion.md](docs/investigacion.md) para la tabla completa fuente → fecha → qué regla salió de ahí.
 
 ## Autor
-**Diego Francisco Granda Zhingre** · [GitHub](https://github.com/DiegoFranciscoG)
+**Diego Francisco Granda Zhingre** · [GitHub](https://github.com/DiegoFranciscoG) · [LinkedIn](https://www.linkedin.com/in/diego-francisco-g-61b793254/) · [Portafolio](https://diegofranciscog.github.io/)
